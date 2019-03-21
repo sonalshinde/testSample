@@ -1,2 +1,2 @@
 # testSample
-Sample 
+Sample example
